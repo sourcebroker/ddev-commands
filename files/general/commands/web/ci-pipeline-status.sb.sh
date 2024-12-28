@@ -1,6 +1,6 @@
 #!/bin/bash
+#sb-generated
 
-# ddev-generated
 ## Description: [BASE] Shows CI pipeline status
 ## Usage: ci-pipeline-status
 ## Example: "ddev cps"
