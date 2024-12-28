@@ -1,0 +1,6 @@
+#ddev-generated
+
+services:
+  web:
+    volumes:
+      - "~/.config/ddev-ci:/var/www/ddev-ci"
